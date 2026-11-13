@@ -1,0 +1,10 @@
+{
+  "name": "StageTalk_E",
+  "description": "Ultra-low latency dual-channel Wi-Fi and Bluetooth wireless talkback intercom system for live concert and event technicians and musicians.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
